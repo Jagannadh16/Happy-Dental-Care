@@ -1,0 +1,5 @@
+{
+  "name": " Happy Dental Care",
+  "description": "Professional dental clinic website with appointment booking and service showcase.",
+  "requestFramePermissions": ["geolocation"]
+}
